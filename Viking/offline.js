@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1499024103,
+	"version": 1499034337,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -85,6 +85,10 @@
 		"images/sprite5-sheet0.png",
 		"images/sprite7-sheet0.png",
 		"images/sprite10-sheet0.png",
+		"images/sensorplacar-sheet0.png",
+		"images/sprite13-sheet0.png",
+		"images/estrela2-sheet0.png",
+		"images/sprite12-sheet0.png",
 		"media/musica de fundo.m4a",
 		"media/musica de fundo.ogg",
 		"media/andando.m4a",
@@ -99,6 +103,8 @@
 		"media/menu.ogg",
 		"media/game over.m4a",
 		"media/game over.ogg",
+		"media/fase 2.m4a",
+		"media/fase 2.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
