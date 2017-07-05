@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1499250110
+#1499257240
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -100,6 +100,9 @@ images/moedap1-sheet0.png
 images/colisaofase3-sheet0.png
 images/solidoplataforma-sheet0.png
 images/mudarvitoria-sheet0.png
+images/sprite17-sheet0.png
+images/sprite18-sheet0.png
+images/sprite19-sheet0.png
 media/musica%20de%20fundo.m4a
 media/musica%20de%20fundo.ogg
 media/andando.m4a

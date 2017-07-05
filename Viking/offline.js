@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1499250110,
+	"version": 1499257240,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -101,6 +101,9 @@
 		"images/colisaofase3-sheet0.png",
 		"images/solidoplataforma-sheet0.png",
 		"images/mudarvitoria-sheet0.png",
+		"images/sprite17-sheet0.png",
+		"images/sprite18-sheet0.png",
+		"images/sprite19-sheet0.png",
 		"media/musica de fundo.m4a",
 		"media/musica de fundo.ogg",
 		"media/andando.m4a",
