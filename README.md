@@ -19,7 +19,7 @@ description: The description of the project
 ```
 
 ## Guerreiros da Escandinávia
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+![Guerreiros da Escandinávia](https://raw.githubusercontent.com/tanhuayu/imagens/master/jogo%201.png)
 
 ---------
 
