@@ -12,7 +12,6 @@
 ![Misterio da Casa 60](https://raw.githubusercontent.com/tanhuayu/imagens/master/jogo2.png)
 ## Warriors War
 <a href="https://leonardofelipe.github.io/Jogo3B/">Link do Jogo</a>
-<p>![Warriors War](https://raw.githubusercontent.com/tanhuayu/imagens/master/jogo3.png)</p>
-
+![Warriors War](https://raw.githubusercontent.com/tanhuayu/imagens/master/jogo3.png)
 ---------
 
