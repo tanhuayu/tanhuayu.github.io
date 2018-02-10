@@ -1,4 +1,6 @@
-## Tan Hua Yu 
+## Quem sou eu?
+ - Tan Hua Yu, 18 anos
+ - Estudante de Programação de Jogos Digitais
  - Email: `thy_yu@hotmail.com`
 
 ## Guerreiros da Escandinávia
