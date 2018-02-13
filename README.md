@@ -10,9 +10,13 @@
 ## Guerreiros da Escandinávia
 <a href="https://tanhuayu.github.io/Viking/">Link do Jogo</a>
 ![Guerreiros da Escandinávia](https://raw.githubusercontent.com/tanhuayu/imagens/master/jogo%201.png)
+<p>
+</p>
 ## Misterio da casa 60
 <a href="https://wesleylandia.github.io/Oficina2">Link do Jogo</a>
 ![Misterio da Casa 60](https://raw.githubusercontent.com/tanhuayu/imagens/master/jogo2.png)
+<p>
+</p>
 ## Warriors War
 <a href="https://leonardofelipe.github.io/Jogo3B/">Link do Jogo</a>
 <p>
@@ -21,6 +25,8 @@
 ## 011
 - Jogo em construção
 ![011](https://raw.githubusercontent.com/tanhuayu/imagens/master/jogo%204.png)
+<p>
+</p>
 ## Cuidado com a boca
 - Jogo em construção
 ![Cuidade com a boca](https://github.com/tanhuayu/imagens/blob/master/jogo5.png?raw=true)
