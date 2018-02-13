@@ -7,6 +7,9 @@
 </p>
 ![Perfil](https://avatars2.githubusercontent.com/u/18718804?s=400&u=2815accbe308b5acf6c14051b7d10cefd82c6f37&v=4)
 
+![Divisor](https://github.com/tanhuayu/imagens/blob/master/divisor-pagina1.png?raw=true)
+## Jogos
+
 # Guerreiros da Escandinávia
 <a href="https://tanhuayu.github.io/Viking/">Link do Jogo</a>
 ![Guerreiros da Escandinávia](https://raw.githubusercontent.com/tanhuayu/imagens/master/jogo%201.png)
@@ -30,6 +33,8 @@
 # Cuidado com a boca
 - Jogo em construção
 ![Cuidade com a boca](https://github.com/tanhuayu/imagens/blob/master/jogo5.png?raw=true)
+
+![Divisor](https://github.com/tanhuayu/imagens/blob/master/divisor-pagina1.png?raw=true)
 
 
 
