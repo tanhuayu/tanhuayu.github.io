@@ -2,7 +2,7 @@
  - Tan Hua Yu, 18 anos
  - Estudante de Programação de Jogos Digitais
  - <p>Email: thy_yu@hotmail.com</p>
- - Instagram: Tan Hua Yu 
+ - <p>Instagram: Tan Hua Yu</p>
 ![Perfil](https://avatars2.githubusercontent.com/u/18718804?s=400&u=2815accbe308b5acf6c14051b7d10cefd82c6f37&v=4)
 
 ## Guerreiros da Escandinávia
@@ -13,6 +13,8 @@
 ![Misterio da Casa 60](https://raw.githubusercontent.com/tanhuayu/imagens/master/jogo2.png)
 ## Warriors War
 <a href="https://leonardofelipe.github.io/Jogo3B/">Link do Jogo</a>
+<p>
+</p>
 ![Warriors War](https://raw.githubusercontent.com/tanhuayu/imagens/master/jogo3.png)
 ## 011
 - Jogo em construção
