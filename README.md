@@ -30,7 +30,6 @@
 <p>
 </p>
 # Cuidado com a boca
-- Jogo em construção
 <a href="https://wesleylandia.github.io/CuidedasuaBoca/">Link do Jogo</a>
 ![Cuidade com a boca](https://github.com/tanhuayu/imagens/blob/master/jogo5.png?raw=true)
 ![Divisor](https://github.com/tanhuayu/imagens/blob/master/divisor-pagina1.png?raw=true)
